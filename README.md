@@ -12,9 +12,8 @@ The game focuses on **smooth gameplay**, **consistent UI across devices**, and *
 
 ---
 
-## 📸 
-
-!(feature graphic paw control.png)
+## Banner
+![Paw Control Banner]()
 
 
 
