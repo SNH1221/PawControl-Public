@@ -12,18 +12,11 @@ The game focuses on **smooth gameplay**, **consistent UI across devices**, and *
 
 ---
 
-## 📸 Game Screenshots
+## 📸 
 
-> *(Add your screenshots here)*
 
-| Gameplay | Power-up | Pause Menu |
-|--------|----------|------------|
-| ![Gameplay](screenshots/gameplay.png) | ![Power-up](screenshots/powerup.png) | ![Pause Menu](screenshots/pause.png) |
 
-📌 **How to add images:**
-1. Create a folder named `screenshots` in your GitHub repository  
-2. Add your images (PNG/JPG)  
-3. Rename them to match the names above **or update filenames here**
+
 
 ---
 
@@ -81,7 +74,7 @@ The game focuses on **smooth gameplay**, **consistent UI across devices**, and *
 
   ---
 
-  ## 👤 Author
+  ## 👤 Created By
      Sanstubh Katiyar
      Android Developer | Game Development Enthusiast
      
