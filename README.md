@@ -13,7 +13,7 @@ The game focuses on **smooth gameplay**, **consistent UI across devices**, and *
 ---
 
 ## Banner
-![Paw Control Banner](feature graphic paw control.png)
+![Paw Control Banner](https://github.com/SNH1221/PawControl-Public/blob/main/banner/feature%20graphic%20paw%20control.png)
 
 
 
